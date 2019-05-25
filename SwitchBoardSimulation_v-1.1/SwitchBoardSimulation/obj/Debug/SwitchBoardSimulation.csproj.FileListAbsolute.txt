@@ -1,0 +1,7 @@
+C:\Users\purushotam.s\Desktop\learning\C#\Switch-Board-Simulator\SwitchBoardSimulation\SwitchBoardSimulation\bin\Debug\SwitchBoardSimulation.exe.config
+C:\Users\purushotam.s\Desktop\learning\C#\Switch-Board-Simulator\SwitchBoardSimulation\SwitchBoardSimulation\bin\Debug\SwitchBoardSimulation.exe
+C:\Users\purushotam.s\Desktop\learning\C#\Switch-Board-Simulator\SwitchBoardSimulation\SwitchBoardSimulation\bin\Debug\SwitchBoardSimulation.pdb
+C:\Users\purushotam.s\Desktop\learning\C#\Switch-Board-Simulator\SwitchBoardSimulation\SwitchBoardSimulation\obj\Debug\SwitchBoardSimulation.csprojAssemblyReference.cache
+C:\Users\purushotam.s\Desktop\learning\C#\Switch-Board-Simulator\SwitchBoardSimulation\SwitchBoardSimulation\obj\Debug\SwitchBoardSimulation.csproj.CoreCompileInputs.cache
+C:\Users\purushotam.s\Desktop\learning\C#\Switch-Board-Simulator\SwitchBoardSimulation\SwitchBoardSimulation\obj\Debug\SwitchBoardSimulation.exe
+C:\Users\purushotam.s\Desktop\learning\C#\Switch-Board-Simulator\SwitchBoardSimulation\SwitchBoardSimulation\obj\Debug\SwitchBoardSimulation.pdb
